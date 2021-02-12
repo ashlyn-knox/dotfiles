@@ -1,0 +1,12 @@
+pane	0	0	:nvim	1	:*	0	:/home/ashlyn/SAIT/default-dirs-main/assignments/dsn270-a1	1	nvim	:nvim dsn270-a1-draft1.md
+pane	0	1	:planning	0	:-	0	:/home/ashlyn/SAIT/default-dirs-main/assignments/dsn270-a1	1	nvim	:nvim plan.adoc
+pane	0	2	:zsh	0	:	0	:/home/ashlyn/SAIT/default-dirs-main/assignments/dsn270-a1	1	zsh	:
+pane	0	3	:zsh	0	:	0	:/home/ashlyn/SAIT/default-dirs-main/assignments/dsn270-a1	1	zsh	:
+pane	1	0	:zsh	1	:*	0	:/home/ashlyn/bin	1	zsh	:
+pane	1	0	:zsh	1	:*	1	:/home/ashlyn/.wine/drive_c/Program\ Files/Adobe/Adobe Photoshop CC 2015	0	zsh	:
+window	0	0	1	:*	ba3d,174x43,0,0,0
+window	0	1	0	:-	ba3e,174x43,0,0,1
+window	0	2	0	:	ba45,174x43,0,0,8
+window	0	3	0	:	5d4f,174x43,0,0,10
+window	1	0	1	:*	3c0b,174x43,0,0{87x43,0,0,3,86x43,88,0,4}
+state	0	

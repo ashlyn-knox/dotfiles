@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0A:00/power_supply/BAT0'
+let g:netrw_dirhist_3='/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0A:00/power_supply'
+let g:netrw_dirhist_2='/home/ashlyn/Downloads/sheet-music/theory'
+let g:netrw_dirhist_1='/usr/share/backgrounds/images'

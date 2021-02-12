@@ -1,0 +1,3 @@
+/home/ashlyn/.config/alacritty	40
+/home/ashlyn/.config/alacritty	40
+/home/ashlyn	80
